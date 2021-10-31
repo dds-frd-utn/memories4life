@@ -1,5 +1,9 @@
 # memories4life
 Trabajo Final - Grupo 6
+Integrantes:
+*Fabiana Padilla
+*Hernán Prego
+*Nicolás Fernández
 
 Source: https://www.opensource-socialnetwork.org/
 
